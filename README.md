@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerynpj
 - 👀 I’m interested in Robotics, Coding and AI
-- 🌱 I’m currently learning C++ and SQL
+- 🌱 I’m currently learning Java, HTML, and Assembly
 - 📫 How to reach me:
 -     Email: keerynjohnson@gmail.com
 
